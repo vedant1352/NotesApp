@@ -40,8 +40,6 @@ notesapp-project/
 └── README.md        # Project documentation
 
 ✅ Example Output
-
-![image alt](https://github.com/vedant1352/NotesApp/blob/564f1c56c4b8671a033f64ba9304161d77bd47cd/Screenshot%202025-06-27%20161614.png).
-
+![image alt](https://github.com/vedant1352/NotesApp/blob/d9c72680af5eb5a4ac61ca109379ffc0d394b6e7/Screenshot%202025-06-27%20161614.png)
 📄 License
 This project is licensed under the MIT License.
